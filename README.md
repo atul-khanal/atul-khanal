@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @atul-khanal
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning python and django   
+- 🌱 I’m currently learning python   
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +9779862258069
 
