@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @atul-khanal
-- 🌱 I’m currently learning python   
+- 🌱 I’m currently learning Networking  
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me +9779862258069
 
